@@ -1,1 +1,0 @@
-Placeholder file so that the parent resources folder is created. Otherwise, everyone who clones this repository will need to manually create a test/resources folder themselves, because Git does not write empty folders.
